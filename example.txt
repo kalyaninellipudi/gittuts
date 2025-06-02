@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 user 1
-=======
 gkgkgk
->>>>>>> origin/master
